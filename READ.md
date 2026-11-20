@@ -1,1 +1,1 @@
-Vision 2030: "Be in a better place in my JavaScript to AI Agents Journey".
+Vision 2030: "Be in a better place in my JavaScript journey to AI Agents".
